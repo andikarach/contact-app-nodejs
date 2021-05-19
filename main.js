@@ -1,6 +1,6 @@
 const express = require('express');
 const app = express();
-const port = 3000;
+const port = 5000;
 const expressLayouts = require('express-ejs-layouts');
 const session = require('express-session');
 const cookieParser = require('cookie-parser');
